@@ -3,7 +3,10 @@ rencana kontent
 1. java scipt
   ES6
   framework javascript
+  Angular
+  React
 2. php 
 3. interview
 4. vlog
-5. struktur data dasar
+5. #B bilang tambah materi baru
+
