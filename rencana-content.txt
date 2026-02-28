@@ -9,3 +9,4 @@ rencana kontent
 4. vlog
 5. struktur data dasar
 6. #A bilang tambah materi baru
+7. #A bilang tambah latihan baru
